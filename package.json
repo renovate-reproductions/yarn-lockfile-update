@@ -9,6 +9,6 @@
     "node": "14 || 16"
   },
   "dependencies": {
-    "@types/dockerode": "3.2.7"
+    "@types/dockerode": "3.3.8"
   }
 }
