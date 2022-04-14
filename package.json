@@ -9,6 +9,6 @@
     "node": "14 || 16"
   },
   "dependencies": {
-    "testcontainers": "8.6.1"
+    "testcontainers": "8.7.0"
   }
 }
